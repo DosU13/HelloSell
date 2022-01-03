@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_navigation"
+    app:startDestination="@id/sell_page_fragment">
+
+    <fragment
+        android:id="@+id/sell_page_fragment"
+        android:name="kg.hello.hello_sell.ui.n1_sell.SellFragment"
+        android:label="@string/title_sell"
+        tools:layout="@layout/fragment_page_sell" />
+    <fragment
+        android:id="@+id/product_page_fragment"
+        android:name="kg.hello.hello_sell.ui.n2_items.ProductPageFragment"
+        android:label="@string/title_products"
+        tools:layout="@layout/fragment_page_products" />
+    <fragment
+        android:id="@+id/loan_page_fragment"
+        android:name="kg.hello.hello_sell.ui.n3_loans.LoanFragment"
+        android:label="@string/title_loans"
+        tools:layout="@layout/fragment_page_loans" />
+    <fragment
+        android:id="@+id/statistics_page_fragment"
+        android:name="kg.hello.hello_sell.ui.n4_statistics.StatisticsFragment"
+        android:label="@string/title_statistics"
+        tools:layout="@layout/fragment_page_statistics" />
+    <fragment
+        android:id="@+id/profile_page_fragment"
+        android:name="kg.hello.hello_sell.ui.n5_profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_page_profile" />
+</navigation>

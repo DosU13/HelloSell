@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hello Sell</string>
+    <string name="welcome">Welcome to Hello Sell</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_sell">Продажа</string>
+    <string name="title_products">Мои продукты</string>
+    <string name="title_loans">Долги</string>
+    <string name="title_statistics">Статистика</string>
+    <string name="title_profile">Профиль</string>
+    <string name="product_name">Название товара</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="pick_image">Выбрать картину</string>
+    <string name="quantity">Колиство</string>
+    <string name="cost">Цена</string>
+    <string name="sell_price">Продоваемая цена</string>
+    <string name="add_product">Добавить товар</string>
+    <string name="change_product_btn">Изменить</string>
+</resources>

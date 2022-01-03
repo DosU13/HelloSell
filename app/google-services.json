@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096639520196",
+    "project_id": "hello-sell",
+    "storage_bucket": "hello-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096639520196:android:1bd7b55ee24478bad65891",
+        "android_client_info": {
+          "package_name": "kg.hello.hello_sell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096639520196-7nrr9siqae3h2brb80u0m58ght07fclv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kg.hello.hello_sell",
+            "certificate_hash": "c484a6152334ad484f241780b5a6627ddb246d2b"
+          }
+        },
+        {
+          "client_id": "1096639520196-dn7vul4qs4tj434qod1l4e7me780h0h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG_wP_1A15iQW8SVTk8vinw4rIbKJll7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096639520196-dn7vul4qs4tj434qod1l4e7me780h0h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
